@@ -1,1 +1,2 @@
 - 2024-11-26: bit manipulation
+- 2024-11-28: bit manipulation
