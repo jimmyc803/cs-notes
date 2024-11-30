@@ -1,2 +1,3 @@
 - 2024-09-23: REST vs GraphQL
 - 2024-10-10: REST vs GraphQL
+- 2024-11-29: REST vs GraphQL
