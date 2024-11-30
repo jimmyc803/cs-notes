@@ -1,1 +1,2 @@
 - 2024-10-24: linked lists
+- 2024-11-29: linked lists
