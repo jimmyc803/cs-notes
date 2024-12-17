@@ -1,1 +1,2 @@
 - 2024-09-26: Python decorators
+- 2024-12-17: Python decorators
