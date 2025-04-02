@@ -1,2 +1,3 @@
 - 2024-12-03: binary search
 - 2024-12-06: binary search
+- 2025-04-01: binary search
