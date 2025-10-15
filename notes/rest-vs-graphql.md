@@ -4,3 +4,4 @@
 - 2025-01-24: REST vs GraphQL
 - 2025-04-01: REST vs GraphQL
 - 2025-10-09: REST vs GraphQL
+- 2025-10-15: REST vs GraphQL
