@@ -1,2 +1,3 @@
 - 2025-01-21: SQL joins
 - 2025-02-10: SQL joins
+- 2026-01-11: SQL joins
