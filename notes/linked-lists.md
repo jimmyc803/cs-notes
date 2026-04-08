@@ -3,3 +3,4 @@
 - 2025-01-24: linked lists
 - 2026-01-11: linked lists
 - 2026-04-02: linked lists
+- 2026-04-08: linked lists
